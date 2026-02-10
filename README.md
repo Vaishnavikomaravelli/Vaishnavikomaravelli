@@ -1,64 +1,58 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=130&section=header"/>
+
+<div align="center">
+
 # 👋 Hi, I'm Komaravelli Vaishnavi
 
-🎓 BTech student specializing in **Artificial Intelligence & Machine Learning**  
-💡 Passionate about building ML-driven solutions for real-world problems  
-🚀 Always learning, experimenting, and improving my skills  
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=4F46E5&center=true&vCenter=true&width=520&lines=AI+%26+ML+BTech+Student;Python+%7C+Java+Developer;Machine+Learning+Enthusiast;Focused+on+Clean+and+Scalable+Solutions" />
+
+</div>
 
 ---
 
 ## 👩‍💻 About Me
 
-- 🎓 Studying **AI & ML** at *Malla Reddy Engineering College for Women*
-- 📊 Strong foundation in **Python, Machine Learning, and Data Structures**
-- 🧠 Interested in **Computer Vision, Deep Learning, and AI applications**
-- 🤝 Open to internships, collaborations, and learning opportunities
+🎓 BTech student specializing in **Artificial Intelligence & Machine Learning**  
+💻 Proficient in **Python and Java**, with strong knowledge of **Data Structures & OOP**  
+📊 Passionate about applying **Machine Learning** to solve real-world problems  
+🧠 Interested in **Computer Vision, Deep Learning, and AI applications**  
+🚀 Continuously learning and improving technical skills  
+🤝 Open to internships and collaborative projects  
 
 ---
 
 ## 🛠️ Technical Skills
 
-**Programming Languages:**  
-- Python  
-- Java  
-
-**Web Technologies:**  
-- HTML  
-- CSS  
-
-**Core Domains:**  
-- Artificial Intelligence  
-- Machine Learning  
-
-**Tools & Others:**  
-- OpenCV  
-- MySQL  
-- Git & GitHub  
-- Object-Oriented Programming  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,html,css,mysql,git,github,opencv&perline=4" />
+</p>
 
 ---
 
 ## 📌 Projects
 
 ### 🚗 Driver Drowsiness Detection using Machine Learning
-- Real-time driver monitoring system using **Python, OpenCV, and dlib**
-- Detects eye closure and yawning using **EAR & MAR**
-- Uses facial landmark detection for fatigue analysis
-- Triggers alerts within seconds to prevent accidents
+- Real-time monitoring system using **Python, OpenCV, and dlib**
+- Detects fatigue using **Eye Aspect Ratio (EAR)** and **Mouth Aspect Ratio (MAR)**
+- Facial landmark-based detection for improved accuracy
+- Triggers alerts within seconds to reduce accident risk
+
+---
 
 ### 🖼️ Image Captioning using Deep Learning
-- CNN + LSTM based image captioning system
+- CNN-based feature extraction with LSTM for text generation
 - Trained on **Flickr8k** and **MS COCO** datasets
 - Evaluated using **BLEU, METEOR, ROUGE-L, CIDEr**
-- Enhanced with **Text-to-Speech** for accessibility
+- Extended with **Text-to-Speech** for accessibility
 
 ---
 
 ## 🏢 Internship Experience
 
-**Infosys Springboard – Virtual Internship**  
-- Worked on **Farm Chain X**, a React-based agri-supply platform  
-- Developed role-based dashboards for multiple stakeholders  
-- Improved transparency and traceability in crop supply chains  
+### Infosys Springboard – Virtual Internship
+- Contributed to **Farm Chain X**, a React-based agricultural supply platform
+- Developed role-based dashboards for multiple stakeholders
+- Improved transparency and end-to-end traceability
 
 ---
 
@@ -71,12 +65,23 @@
 
 ---
 
-## 📫 Connect With Me
+## 🌐 Connect With Me
 
-- 📧 Email: **vkomaravelli1@gmail.com**
-- 💼 LinkedIn: [linkedin.com/in/vaishnavi-komaravelli](https://linkedin.com/in/vaishnavi-komaravelli)
-- 🐙 GitHub: [github.com/Vaishnavikomaravelli](https://github.com/Vaishnavikomaravelli)
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/vaishnavi-komaravelli)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/Vaishnavikomaravelli)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail)](mailto:vkomaravelli1@gmail.com)
+
+</div>
 
 ---
 
-⭐ *Feel free to explore my repositories and connect with me!*
+<div align="center">
+
+⭐ *Thanks for visiting my profile*  
+✨ *Feel free to explore my repositories and connect with me*  
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
